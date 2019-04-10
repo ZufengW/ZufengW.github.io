@@ -8,6 +8,10 @@ The [repo](https://github.com/ZufengW/ZufengW.github.io) contains only `.md` fil
 ## Projects
 Here are some things I have hosted on Github Pages.
 
+### CSS Zen Garden
+Another variant of [CSS Zen Garden](http://www.csszengarden.com/).
+
+* [View](csszengarden1)
 
 ### Big Chungus Game
 Video game based on a meme.
