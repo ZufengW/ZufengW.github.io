@@ -1,0 +1,72 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+#banner {
+  display: none;
+}
+
+body {
+  font-size: 16px;
+}
+
+footer {
+  line-height: 22px;
+}
+
+footer > p > small {
+  display: none;
+}
+
+header {
+  box-shadow: none;
+  // padding: 25px 20px;
+  position: inherit;
+  width: inherit;
+}
+
+header > h1 {
+  font: 36px/52px "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  text-shadow: none;
+  white-space: break-spaces;
+}
+
+header > p {
+  text-shadow: none;
+}
+
+section {
+  border: none;
+  box-shadow: none;
+  margin-top: 4px;
+}
+
+nav {
+  top: inherit;
+}
+
+nav > ul {
+  font-size: 17px;
+}
+
+nav > ul > li {
+  line-height: 22px;
+}
+
+nav > ul > li.tag-h2 {
+  font-size: 1.1em;
+}
+
+nav > ul > li.tag-h3 {
+  font-size: 0.9em;
+}
+
+nav > ul > li.tag-h4 {
+  font-size: 0.8em;
+}
+
+ul {
+  list-style-image: none;
+}

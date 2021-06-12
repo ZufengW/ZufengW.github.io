@@ -4,6 +4,8 @@ You can use the [editor on GitHub](https://github.com/ZufengW/ZufengW.github.io/
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Jekyll theme: [leap-day](https://github.com/pages-themes/leap-day)
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -35,3 +37,22 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+## Development
+
+### Custom styles
+
+Follow [this guide](https://github.com/pages-themes/leap-day#stylesheet)
+
+### How to preview the site
+
+Install the Ruby dependencies.
+```
+bundle install --path vendor/bundle
+```
+
+Start the devserver.
+```
+bundle exec jekyll serve --watch
+```
+This will print the address to visit.
