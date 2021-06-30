@@ -9,10 +9,7 @@ Here are some things I have hosted on Github Pages.
 
 ### Genshin Impact
 
-My latest obsession
-
-* [Serenitea Pot Furniture List](/genshin-furniture)
-* [Custom Abyss Record](/genshin-abyss-record)
+My latest obsession. [Fan site](/genshin)
 
 ### Blank Page
 
