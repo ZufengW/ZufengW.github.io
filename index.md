@@ -28,6 +28,7 @@ Notable mazes:
 
  * [Dino maze](https://bit.do/dino-maze) 🦖
  * [Canva maze](https://bit.do/canva-maze)
+ * [Keqing maze](/canvas-maze/mazes/keqing)
 
 ### Blocksworld
 
